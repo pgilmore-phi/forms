@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p133911-e1313536.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-forms/main"
+    url: "https://drive.google.com/drive/folders/1cCk2zVEdFy0YxfSQGRnYGxEOoGydbx-d"
     type: "markup"
     suffix: ".html"
